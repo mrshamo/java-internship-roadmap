@@ -18,11 +18,11 @@ Development tools and utilities
 
 Think of the JDK as a toolbox for Java developers.
 
-Example
+# Example
 
 When writing and compiling Java code, you need the JDK installed on your computer.
 
-JRE (Java Runtime Environment)
+# JRE (Java Runtime Environment)
 
 The JRE provides everything needed to run Java programs.
 
@@ -33,7 +33,7 @@ Java libraries and runtime files
 
 Think of the JRE as a player that runs Java applications.
 
-Example
+# Example
 
 If a user only wants to run a Java application and not develop one, the JRE is sufficient.
 
@@ -50,7 +50,7 @@ Executes the program
 
 The JVM acts as a bridge between Java programs and the operating system.
 
-Example
+# Example
 
 A Java program compiled on Windows can run on Linux because both systems have their own JVM implementation.
 
@@ -72,11 +72,11 @@ Main.class
 
 The generated .class file contains bytecode.
 
-Bytecode
+# Bytecode
 
 Bytecode is an intermediate code produced by the Java compiler.
 
-Characteristics:
+# Characteristics:
 
 Platform independent
 Stored in .class files
@@ -84,7 +84,7 @@ Executed by the JVM
 
 Bytecode is the reason Java programs can run on multiple operating systems without modification.
 
-java Command
+# java Command
 
 The java command is used to run a compiled Java program.
 
@@ -109,7 +109,7 @@ JVM
 Machine Code
 ↓
 Program Output
-Summary
+# Summary
 JDK = Development kit for creating Java programs.
 JRE = Environment required to run Java programs.
 JVM = Executes Java bytecode.
