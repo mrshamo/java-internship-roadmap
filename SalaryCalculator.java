@@ -20,6 +20,6 @@ public class SalaryCalculator {
         System.out.println(" Your Net Salary is: " + netSalary);
         System.out.println(" Your Bonus is: " + bonus);
         System.out.println(" Your Tax is: " + tax); 
-
+        input.close();
     }
 }
